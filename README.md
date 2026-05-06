@@ -22,9 +22,7 @@ I design, automate, and scale secure Cloud Native architectures.
 
 ### 📫 Connect with me
 
-- **LinkedIn:** [Your LinkedIn URL](#)
-- **Schedule Call:** [Book a 1-on-1](#)
-- **Email:** [hello@example.com](mailto:hello@example.com)
+- **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/saargunam/)](#)
 
 <br/>
 
