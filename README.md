@@ -20,12 +20,3 @@ I design, automate, and scale secure Cloud Native architectures.
 
 ---
 
-### 📫 Connect with me
-
-- **LinkedIn:** [(https://www.linkedin.com/in/saargunam/)](#)
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saargunam-eng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-</p>
